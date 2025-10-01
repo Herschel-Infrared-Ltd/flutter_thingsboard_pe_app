@@ -23,6 +23,7 @@ ios/Flutter/AppConfig.xcconfig
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
+**/ios/Flutter/ephemeral/
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -42,6 +43,7 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 app_constants.json
+configs.json
 google-services.json
 GoogleService-Info.plist
 # Android Studio will place build artifacts here

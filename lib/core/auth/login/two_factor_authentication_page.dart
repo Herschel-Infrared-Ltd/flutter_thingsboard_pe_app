@@ -420,11 +420,11 @@ class _TwoFactorAuthenticationPageState
   ) {
     int maxLengthInput = 6;
     TextInputType keyboardType = TextInputType.number;
-    String pattern = '[0-9]*';
+    RegExp pattern = RegExp('[0-9]*');
 
     if (providerType == TwoFaProviderType.BACKUP_CODE) {
       maxLengthInput = 8;
-      pattern = '[0-9abcdef]*';
+      pattern = RegExp('[0-9abcdef]*');
       keyboardType = TextInputType.text;
     }
 
