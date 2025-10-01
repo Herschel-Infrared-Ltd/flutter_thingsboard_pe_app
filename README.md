@@ -1,4 +1,4 @@
-## Herschel Infrared - InfraSense commercial app (Thingsboard)
+## InfraSense commercial app (Thingsboard)
 
 Based on [ThingsBoard PE Mobile Application](https://thingsboard.io/products/mobile-pe/) - an open-source project built with [Flutter](https://flutter.dev/)
 
