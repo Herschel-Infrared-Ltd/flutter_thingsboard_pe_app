@@ -5,6 +5,18 @@ Build your own advanced IoT mobile application **with minimum coding efforts**
 
 ## Please be informed the Web platform is not supported, because it's a part of our main platform!
 
+## Development Setup
+
+### Running the App
+
+```bash
+flutter run --dart-define-from-file configs.json
+```
+
+### Configuration
+
+Download the `configs.json` file per app bundle from the ThingsBoard dashboard.
+
 ## Resources
 
 - [Getting started](https://thingsboard.io/docs/pe/mobile/getting-started/) - learn how to set up and run your first IoT mobile app
