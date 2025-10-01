@@ -1,11 +1,16 @@
-## [ThingsBoard PE Mobile Application](https://thingsboard.io/products/mobile-pe/) is an open-source project based on [Flutter](https://flutter.dev/)
-Powered by [ThingsBoard PE](https://thingsboard.io/products/thingsboard-pe/) IoT Platform
+## Herschel Infrared - InfraSense commercial app (Thingsboard)
 
-Build your own advanced IoT mobile application **with minimum coding efforts**
+Based on [ThingsBoard PE Mobile Application](https://thingsboard.io/products/mobile-pe/) - an open-source project built with [Flutter](https://flutter.dev/)
+
+Powered by [ThingsBoard PE](https://thingsboard.io/products/thingsboard-pe/) IoT Platform
 
 ## Please be informed the Web platform is not supported, because it's a part of our main platform!
 
 ## Development Setup
+
+### Prerequisites
+
+- [Flutter with VS Code](https://docs.flutter.dev/install/with-vs-code) - Install Flutter and set up your development environment
 
 ### Running the App
 
